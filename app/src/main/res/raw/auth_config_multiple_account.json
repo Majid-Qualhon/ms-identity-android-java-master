@@ -1,0 +1,13 @@
+{
+  "client_id" : "e29036c8-e749-4946-93ae-9289fcdd6349",
+  "authorization_user_agent" : "DEFAULT",
+  "redirect_uri" : "msauth://com.majid.codinghelper/1wIqXSqBj7w%2Bh11ZifsnqwgyKrY%3D",
+  "account_mode" : "MULTIPLE",
+  "broker_redirect_uri_registered": true,
+  "authorities" : [
+    {
+      "type": "AAD",
+      "authority_url": "https://login.microsoftonline.com/organizations"
+    }
+  ]
+}
